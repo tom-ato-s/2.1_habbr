@@ -32,8 +32,7 @@ public class ElementW {
         //сумма всех весов
         sum = 0;
         for (int arr : arr2)
-            sum += arr;
- //       System.out.println("sum: " +sum);
+git //       System.out.println("sum: " +sum);
 
         //массив левых значений
         int tempsum = 0;
